@@ -5,8 +5,8 @@
 | 年   | 月   | 日   | 歌手                                                         | 演出名称                                                     | 在线地址                                                     |
 | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2020 | 03   | 14   | 杨丞琳                                                       | 01.TME LIVE 杨丞琳《删·拾  以后》线上音乐会(Live)-杨丞琳     | https://y.qq.com/n/yqq/mv/v/l003324h6pc.html                 |
-| 2020 | 03   | 27   | 林俊杰(多人)                                                 | 02.TME LIVE 327 LOVE  WISHES JJ林俊杰直播见面会(Live)-林俊杰(多人) | https://y.qq.com/msa/270/1_9523.html                         |
-| 2020 | 04   | 11   | A-Lin                                                        | 03.TME LIVE A-Lin《I'm  A-Lin》线上音乐会(Live)-A-Lin        | https://y.qq.com/msa/270/1_9606.html                         |
+| 2020 | 03   | 27   | 林俊杰(多人)                                                 | 02.TME LIVE 327 LOVE  WISHES JJ林俊杰直播见面会(Live)-林俊杰(多人) | https://y.qq.com/n/yqq/mv/v/l0033kyfd5z.html                 |
+| 2020 | 04   | 11   | A-Lin                                                        | 03.TME LIVE A-Lin《I'm  A-Lin》线上音乐会(Live)-A-Lin        | https://y.qq.com/n/yqq/mv/v/o0033fsobs4.html                 |
 | 2020 | 04   | 15   | 八三天&陈零九&孙圣希&许光汉&伍佰&柯佳然&施柏宇               | 04.TME LIVE  想见你OST彩蛋音乐会(Live)-八三天&陈零九&孙圣希&许光汉&伍佰&柯佳然&施柏宇 | https://y.qq.com/n/yqq/mv/v/p00330qe2it.html                 |
 | 2020 | 04   | 17   | 刘若英                                                       | 05.TME LIVE  刘若英陪你线上演唱会(Live)-刘若英               | https://y.qq.com/n/yqq/mv/v/f0033qkz12y.html                 |
 | 2020 | 05   | 15   | 吴青峰                                                       | 06.TME LIVE  吴青峰太空人线上影展(Live)-吴青峰               | https://y.qq.com/n/yqq/mv/v/d0034yuocbm.html                 |
@@ -37,7 +37,7 @@
 | 2020 | 11   | 29   | 气运联盟&水果星球&午睡留声机&银河系                          | 31.TME LIVE  潮现场X明日之子乐团季 “去浪2021”线上音乐会(Live).V1-气运联盟&水果星球&午睡留声机&银河系 | https://y.qq.com/n/yqq/mv/v/l0035h1xb7f.html                 |
 | 2020 | 12   | 05   | GAI周延&VaV                                                  | 32.TME LIVE  潮现场-追梦之夜线上演唱会(Live)-GAI周延&VaV     | https://y.qq.com/n/yqq/mv/v/a0035nvkjdu.html                 |
 | 2020 | 12   | 06   | 王心凌                                                       | 33.TME LIVE 超现场-  王心凌Cyndi 「 私·心」 音乐分享会(Live)-王心凌 | https://y.qq.com/n/yqq/mv/v/w0035z35ka6.html                 |
-| 2020 | 12   | 10   | 丁当                                                         | 34.TME LIVE  丁当超现场「我要我精彩」线上演唱会(Live)-丁当   | https://y.qq.com/n/yqq/mv/v/i0035vc0boe.html                 |
+| 2020 | 12   | 10   | 丁当                                                         | 34.NEW.TME LIVE  丁当超现场「我要我精彩」线上演唱会(Live)-丁当 | https://y.qq.com/n/yqq/mv/v/i0035vc0boe.html                 |
 | 2020 | 12   | 18   | Matzka                                                       | 35.TME LIVE  新现场-Matzka「回到原点」线上演唱会(Live)-Matzka | https://y.qq.com/n/yqq/mv/v/q0035swa53v.html                 |
 | 2020 | 12   | 18   | Matzka                                                       | 36.TME LIVE   Matzka「回到原点」线上演唱会(Live)-Matzka      | https://y.qq.com/n/yqq/mv/v/q0035swa53v.html                 |
 | 2020 | 12   | 20   | 吴青峰                                                       | 37.TME LIVE 超现场  吴青峰[16叶]线上演唱会(Live)-吴青峰      | https://y.qq.com/n/yqq/mv/v/v0035ry0de5.html                 |
@@ -152,5 +152,7 @@
 | 2021 | 11   | 21   | 阿黛尔                                                       | 145.TME LIVE  阿黛尔新专辑《30》特别演唱会Adele One Night Only-阿黛尔 | https://y.qq.com/n/ryqq/mv/m0041ls7dbg                       |
 | 2021 | 07   | 30   | Fox Stevenson                                                | 146.E@TME live  Tomorrowland 2021 线上音乐节 - Fox Stevenson (Live)-Fox Stevenson | https://y.qq.com/n/ryqq/mv/a0039u5loe6                       |
 | 2021 | 11   | 24   | 容祖儿                                                       | 147.TME live  容祖儿「薛丁格的猫」新专辑首唱会-容祖儿        | /                                                            |
-| 2021 | 12   | 11   | 周杰伦、五月天、刘若英、华晨宇、时代少年团、薛之谦、吉克隽逸、刘惜君、单依纯、郁可唯 | 148.TME live  第三届TMEA腾讯音乐娱乐盛典 让我为你唱首歌Sing For Music-群星 | /                                                            |
-| 2019 | 12   | 08   | 孟美岐、张靓颖，R1SE、TFBOYS、陈雪凝、张艺兴、陈立农、冯提莫 | 149.2019TMEA腾讯音乐娱乐盛典现场  (Live)-华语群星            | https://y.qq.com/n/ryqq/mv/v0033vp7kbi                       |
+| 2021 | 12   | 11   | 周杰伦、五月天、刘若英、华晨宇、时代少年团、薛之谦、吉克隽逸、刘惜君、单依纯、郁可唯 | 148.TME live  第三届TMEA腾讯音乐娱乐盛典 让我为你唱首歌Sing For Music-群星 | https://y.qq.com/n/ryqq/mv/h0041wq2per                       |
+| 2019 | 12   | 08   | 孟美岐、张靓颖，R1SE、TFBOYS、陈雪凝、张艺兴、陈立农、冯提莫 | 149.TME LIVE  2019TMEA腾讯音乐娱乐盛典现场 (Live)-华语群星   | https://y.qq.com/n/ryqq/mv/v0033vp7kbi                       |
+| 2021 | 12   | 11   | 周杰伦、五月天、刘若英、华晨宇、时代少年团、薛之谦、吉克隽逸、刘惜君、单依纯、郁可唯 | 150.TME live  第三届TMEA腾讯音乐娱乐盛典(红毯秀)-群星        | https://y.qq.com/n/ryqq/mv/d0041n8jin8                       |
+| 2020 | 09   | 19   | 任贤齐                                                       | 151.TME live 超现场 任贤齐「齐迹」2020演唱会回看  (Live)-任贤齐 | https://y.qq.com/n/ryqq/mv/t0034akb4ni                       |
